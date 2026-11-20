@@ -1,0 +1,13 @@
+attempt_id,category,expected_behavior,outcome,latency_ms,answer_grade,data_origin
+D01,Academic calendar,answer,answered,820,correct,demo
+D02,Academic calendar,answer,answered,1120,correct,demo
+D03,Academic calendar,answer,answered,980,incorrect,demo
+D04,Academic calendar,answer,answered,640,correct,demo
+D05,Examination rules,answer,answered,1540,correct,demo
+D06,Examination rules,answer,answered,1910,incorrect,demo
+D07,Examination rules,answer,error,10000,,demo
+D08,Examination rules,answer,abstained,1290,,demo
+D09,Unsupported,abstain,abstained,470,,demo
+D10,Unsupported,abstain,abstained,550,,demo
+D11,Unsupported,abstain,answered,1590,,demo
+D12,Unsupported,abstain,abstained,505,,demo

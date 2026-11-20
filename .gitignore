@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
+*.pem
+*.key
+*.sqlite*
+*.db
+*.db-*
+my_results.csv
+benchmark_replies.jsonl
+preflight.json
+.streamlit/secrets.toml

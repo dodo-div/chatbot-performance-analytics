@@ -1,0 +1,11 @@
+attempt_id,category,expected_behavior,outcome,latency_ms,answer_grade,data_origin,cached,reply_summary
+R001,Academic calendar,answer,error,1696,,measured,,
+R002,Academic calendar,answer,error,13,,measured,,
+R003,Academic calendar,answer,error,22,,measured,,
+R004,Academic calendar,answer,error,15,,measured,,
+R005,Academic calendar,answer,answered,2068,incorrect,measured,0,Gave the last instructional day (5 November 2026) instead of the winter vacation dates.
+R006,Examination ordinances,answer,answered,12499,correct,measured,0,
+R007,Examination ordinances,answer,answered,8897,correct,measured,0,
+R008,Examination ordinances,answer,abstained,16500,,measured,0,Could not verify who approves an amendment. Mentioned the course chairman for result declaration.
+R009,Outside coverage,abstain,abstained,8910,,measured,0,
+R010,Outside coverage,abstain,abstained,6,,measured,0,
